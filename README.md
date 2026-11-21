@@ -1,2 +1,33 @@
-# contact-book143
-The Contact Book Application is a Python-based project used to create, view, update, delete, and search contact details. It stores names, ages, email addresses, and mobile numbers using dictionaries. This project provides a simple menu-driven interface and helps users manage contacts easily while learning Python programming concepts.
+
+# Contact Book Application
+
+## Introduction
+Contact Book is a Python Flask-based web application
+used to manage personal contacts.
+
+## Features
+- Add new contacts
+- View all contacts
+- Search contacts
+- Delete contacts
+- Count total contacts
+
+## Technologies Used
+- Python
+- Flask
+- HTML
+- CSS
+
+## Installation
+
+Install Flask:
+
+pip install flask
+
+## Run Application
+
+python app.py
+
+Open browser:
+
+http://127.0.0.1:5000

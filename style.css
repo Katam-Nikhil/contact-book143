@@ -1,0 +1,71 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    background: #eef2ff;
+    color: #1e293b;
+}
+
+.container {
+    max-width: 650px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #4338ca;
+}
+
+.container > p {
+    text-align: center;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    margin: 20px 0;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px #00000012;
+}
+
+input {
+    width: 100%;
+    padding: 13px;
+    margin: 8px 0;
+    border: 1px solid #cbd5e1;
+    border-radius: 7px;
+}
+
+button {
+    width: 100%;
+    padding: 13px;
+    margin-top: 10px;
+    background: #4f46e5;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #3730a3;
+}
+
+.contact {
+    background: #f8fafc;
+    padding: 15px;
+    margin: 12px 0;
+    border-radius: 8px;
+    border-left: 4px solid #4f46e5;
+}
+
+.contact a {
+    color: #dc2626;
+    text-decoration: none;
+    font-weight: bold;
+}
